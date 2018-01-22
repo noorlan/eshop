@@ -67,7 +67,7 @@
 
 html, body {
 	height: 100%;
-} 
+}
 
 .films_block {
 	text-align: center;
@@ -149,6 +149,12 @@ textarea.form-control {
 	vertical-align: middle;
 }
 
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #346270;
+    border-color: #346270;
+}
+
 footer {
 	color: #777;
 	background-color: #222;
@@ -157,7 +163,7 @@ footer {
 }
 
 footer a {
-	color: #999;
+	color: #999;	
 	font-weight: bold;
 }
 
